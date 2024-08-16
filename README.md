@@ -1,5 +1,13 @@
 # 💫 About Me:
-Meet Jash, a passionate individual currently pursuing his B.Tech in Information and Communication Technology (ICT) at DAIICT College. Jash is a third-year student with a keen interest in various fields of technology. Among his many interests, machine learning and web development holds a special place in his heart.<br><br>Apart from programming, Jash has a flair for writing and enjoys expressing his thoughts through words. He finds solace in the world of books and often immerses himself in various genres, expanding his knowledge and perspective. Jash believes that reading and writing are powerful tools that allow him to explore new ideas and connect with people on a deeper level.
+Hi there! I’m Jash Shah, currently pursuing a Bachelor of Technology in Information and Communication Technology (ICT) at DAIICT. As a third-year student, I’m deeply engaged in the world of technology, with a strong focus on machine learning and web development.
+
+I have developed proficiency in a range of programming languages, including C, C++, HTML, CSS, JavaScript, and Python. My expertise in machine learning encompasses tools such as NumPy, Pandas, Scikit-Learn, and Streamlit. In web development, I am skilled in using Git, GitHub, SQL, and PL/SQL. Additionally, I have experience engineering a Retrieval-Augmented Generation (RAG) model, utilizing LlamaParse for advanced data extraction, FAISS for efficient embedding management, and LangChain for streamlined conversational AI integration.
+
+In my leadership roles, I have led a team of over 30 volunteers in managing large-scale events for the Cultural Committee at DAIICT, and have initiated key tech events while mentoring over 100 students in machine learning as part of the AI Club at DAIICT.
+
+Beyond my technical pursuits, I am an avid reader and writer, finding inspiration in books that expand my worldview. I believe in the power of words to connect with people and explore new ideas.
+
+Let’s connect and explore the exciting world of technology together!
 
 
 ## 🌐 Socials:
