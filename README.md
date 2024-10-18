@@ -1,13 +1,15 @@
 # 💫 About Me:
-Hi there! I’m Jash Shah, currently pursuing a Bachelor of Technology in Information and Communication Technology (ICT) at DAIICT. As a third-year student, I’m deeply engaged in the world of technology, with a strong focus on machine learning and web development.
+Hi! I'm a 3rd-year student at DA-IICT, passionate about generative AI and machine learning. Over the past few years, I’ve developed expertise in tools like LangChain, LangGraph, Streamlit, Python, REST APIs, and Flask.
 
-I have developed proficiency in a range of programming languages, including C, C++, HTML, CSS, JavaScript, and Python. My expertise in machine learning encompasses tools such as NumPy, Pandas, Scikit-Learn, and Streamlit. In web development, I am skilled in using Git, GitHub, SQL, and PL/SQL. Additionally, I have experience engineering a Retrieval-Augmented Generation (RAG) model, utilizing LlamaParse for advanced data extraction, FAISS for efficient embedding management, and LangChain for streamlined conversational AI integration.
+I’ve built exciting projects, including:
+1. AI Agents using LangGraph
+2. Retrieval-Augmented Generation (RAG) system supported with unstructured data
+3. Property Acquisition Cost Predictor
+4. Portfolio Database Management System
 
-In my leadership roles, I have led a team of over 30 volunteers in managing large-scale events for the Cultural Committee at DAIICT, and have initiated key tech events while mentoring over 100 students in machine learning as part of the AI Club at DAIICT.
+As the convenor of the AI Club at DA-IICT, I’ve mentored over 100 students in their journey of learning machine learning. I’m also part of the Google Developer Group on campus and the core team of the cultural committee.
 
-Beyond my technical pursuits, I am an avid reader and writer, finding inspiration in books that expand my worldview. I believe in the power of words to connect with people and explore new ideas.
-
-Let’s connect and explore the exciting world of technology together!
+💡 My goal? To work in a remote startup where I can contribute my skills—and maybe figure out if productivity increases with endless coffee breaks! ☕😄
 
 
 ## 🌐 Socials:
