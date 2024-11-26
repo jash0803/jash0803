@@ -11,10 +11,6 @@ As the convenor of the AI Club at DA-IICT, I’ve mentored over 100 students in 
 
 💡 My goal? To work in a remote startup where I can contribute my skills—and maybe figure out if productivity increases with endless coffee breaks! ☕😄
 
-# Resume:
-[Jash_Resume.pdf](https://github.com/user-attachments/files/17778848/Jash_Resume.pdf)
-
-
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jash0803) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jashshah0803) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jashshah780) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Jash-Shah-271) 
 
