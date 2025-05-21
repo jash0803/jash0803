@@ -1,6 +1,34 @@
-# 💫 About Me:
-Hi! I'm a 3rd-year student at DA-IICT, passionate about generative AI and machine learning. Over the past few years, I’ve developed expertise in tools like LangChain, LangGraph, Streamlit, Python, REST APIs, and Flask.<br><br>I'm working on side projects like:<br>1. Cram-AI<br>2. Social Vault<br>3. FocusWall<br><br>I’ve built exciting projects, including:<br>1. AI Agents using LangGraph<br>2. Retrieval-Augmented Generation (RAG) system supported with unstructured data<br>3. Property Acquisition Cost Predictor<br>4. Portfolio Database Management System<br><br>As the convenor of the AI Club at DA-IICT, I’ve mentored over 100 students in their journey of learning machine learning. I’m also part of the Google Developer Group on campus and the core team of the cultural committee.<br><br>💡 My goal? To work in a remote startup where I can contribute my skills—and maybe figure out if productivity increases with endless coffee breaks! ☕😄
+# 💫 About Me
 
+### About Me
+
+* Final-year B.Tech student at **Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT)**.
+* Proficient in **Machine Learning**, **Deep Learning**, **Large Language Models (LLMs)**, and **Reinforcement Learning**.
+* Experienced with frameworks and tools such as **LangChain**, **LangGraph**, **Django**, **FastAPI**, **TensorFlow**, **PyTorch**, and **AWS**.
+* Currently serving as the **Convenor of the AI Club at DA-IICT**, where I’ve mentored 100+ students and led initiatives like *Prompt-a-Thon* and the *AI Odyssey* learning series.
+* Core team member of the **Google Developer Group (GDG) DA-IICT**; co-organized **DevFest**, the institute’s flagship tech event, featuring 15+ speakers and 500+ participants.
+* Enthusiastic about technical writing—my latest blog, *“What to Do After Completing Andrew Ng’s Machine Learning Specialization”*, gained 200+ views and 100+ reads on Medium.
+
+---
+
+### Key Experiences
+
+* **Substance AI (San Jose, USA)** – Interned as a Generative AI Engineer; built LangGraph-based multi-agent systems for insurance underwriting automation. Reduced document processing time from 5 days to just 5 minutes.
+* **ZeroBalance (Ahmedabad, India)** – SEO and Growth Intern; implemented content and technical SEO strategies that helped the product achieve #1 rank on Product Hunt.
+* **DA-IICT Admissions Campaign (Gandhinagar, India)** – Contributed directly to DA-IICT’s 2025 admissions campaign through SEO optimization and content writing, significantly boosting the institute's digital outreach.
+
+---
+
+### Key Projects
+
+I focus on building practical projects that solve real-world problems and deliver measurable impact.
+
+* **DAIICT Chatbot** – An intelligent chatbot built for daiict.ac.in, answering queries about admissions, courses, scholarships, placements, and more.
+* **LLM4MUN** – Fine-tuned the LLaMA 3 8B-Instruct model using QLoRA to simulate Model United Nations–style debates, enabling rich, contextual argumentation training.
+* **Financial Asset Recommendation System** – Combines collaborative filtering and content-based scoring to provide personalized investment suggestions.
+* **KarunaCMS** – A full-stack Django-based crisis management system with real-time incident reporting, task delegation, resource monitoring, and secure authentication.
+* **Social Vault** – A browser extension that stores your frequently used personal links and social handles for faster access—no more hunting through tabs or docs during form fills.
+* **Cram-AI** – An AI-powered revision assistant using Retrieval-Augmented Generation (RAG) to help students study smarter with contextual, accurate responses.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jash0803) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jashshah0803) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jashshah780) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jashshah0803) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@jash0803) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jashshah780@gmail.com) 
