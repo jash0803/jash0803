@@ -5,7 +5,7 @@
 * Experienced with frameworks and tools such as **LangChain**, **LangGraph**, **Django**, **FastAPI**, **TensorFlow**, **PyTorch**, and **AWS**.
 * Currently serving as the **Convenor of the AI Club at DA-IICT**, where I’ve mentored 100+ students and led initiatives like *Prompt-a-Thon* and the *AI Odyssey* learning series.
 * Core team member of the **Google Developer Group (GDG) DA-IICT**; co-organized **DevFest**, the institute’s flagship tech event, featuring 15+ speakers and 500+ participants.
-* Enthusiastic about technical writing—my latest blog, *“What to Do After Completing Andrew Ng’s Machine Learning Specialization”*, gained 200+ views and 100+ reads on Medium.
+* Enthusiastic about technical writing—my latest blog, *“What to Do After Completing Andrew Ng’s Machine Learning Specialization”*, gained 1000+ views and 500+ reads on Medium.
 
 ---
 
